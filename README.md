@@ -18,6 +18,6 @@ Thanks to Aaron and Kevin, [Mathcamp] 2014 mentors, for the project mentorship.
 ## License
 See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
 
-   [Play with it]: <http://parket.murfel.name>
+   [Play with it]: <https://murfel.github.io/parket/>
    [Blog post with the project story]: <http://murf3l.blogspot.ru/2015/09/tessellation.html>
    [Mathcamp]: <http://mathcamp.org>
